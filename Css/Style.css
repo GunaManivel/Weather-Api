@@ -1,0 +1,32 @@
+body {
+     background-image: url("https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0");
+     background-size: cover;
+     font-family: "Akaya Kanadaka", cursive;
+     color: #fff;
+ }
+
+ .container {
+     background-color: rgba(255, 255, 255, 0.5);
+     padding: 20px;
+     border-radius: 10px;
+ }
+
+ .custom-input {
+     width: 75%;
+     font-size: 18px;
+ }
+
+ .btn-primary {
+     font-size: 18px;
+ }
+
+ .card-with-bg {
+     background-image: url("https://images.unsplash.com/photo-1559408218-96b2595e2a3e");
+     background-size: 100%;
+     /* Adjust the value as needed */
+     background-repeat: no-repeat;
+     border-radius: 10px;
+     /* Add border radius to card background */
+ }
+
+ 
